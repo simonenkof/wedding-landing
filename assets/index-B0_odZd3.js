@@ -11924,12 +11924,12 @@ function Dy() {
 }
 var My = Dy();
 const Uy = { "main-container": "_main-container_199a8_1" },
-  Ry = "_wrapper_18di7_1",
-  Hy = "_title_18di7_10",
-  py = "_image_18di7_24",
+  Ry = "_wrapper_14sgq_1",
+  Hy = "_title_14sgq_10",
+  py = "_image_14sgq_24",
   Oa = {
     wrapper: Ry,
-    "title-container": "_title-container_18di7_10",
+    "title-container": "_title-container_14sgq_10",
     title: Hy,
     image: py,
   },
@@ -12022,7 +12022,7 @@ function jy() {
           X.jsx("h1", { className: Oa.title, children: "Федор" }),
         ],
       }),
-      X.jsx("img", { className: Oa.image, src: "./background.png" }),
+      X.jsx("img", { className: Oa.image, src: "./assets/background.png" }),
       X.jsx(By, {}),
     ],
   });
