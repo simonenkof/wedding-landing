@@ -12022,7 +12022,7 @@ function jy() {
           X.jsx("h1", { className: Oa.title, children: "Федор" }),
         ],
       }),
-      X.jsx("img", { className: Oa.image, src: "./assets/background.png" }),
+      X.jsx("img", { className: Oa.image, src: "./background.png" }),
       X.jsx(By, {}),
     ],
   });

@@ -12,15 +12,15 @@
 }
 @font-face {
   font-family: PoiterOne;
-  src: url(./assets/PoiretOne-Regular-De5KW2dz.ttf);
+  src: url(./PoiretOne-Regular-De5KW2dz.ttf);
 }
 @font-face {
   font-family: OldClassic;
-  src: url(./assets/Old-Classic.ttf);
+  src: url(./Old-Classic.ttf);
 }
 @font-face {
   font-family: M;
-  src: url(./assets/m-BsuFFWPP.ttf);
+  src: url(./m-BsuFFWPP.ttf);
 }
 body {
   display: flex;
